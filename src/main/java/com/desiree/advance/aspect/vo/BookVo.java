@@ -1,4 +1,4 @@
-package com.desiree.advance.vo;
+package com.desiree.advance.aspect.vo;
 
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;

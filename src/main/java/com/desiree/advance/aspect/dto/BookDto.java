@@ -1,4 +1,4 @@
-package com.desiree.advance.dto;
+package com.desiree.advance.aspect.dto;
 
 import lombok.Data;
 

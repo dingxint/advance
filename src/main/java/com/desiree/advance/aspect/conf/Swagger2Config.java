@@ -1,4 +1,4 @@
-package com.desiree.advance.conf;
+package com.desiree.advance.aspect.conf;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

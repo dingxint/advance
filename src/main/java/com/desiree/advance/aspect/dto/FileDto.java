@@ -1,11 +1,8 @@
-package com.desiree.advance.dto;
+package com.desiree.advance.aspect.dto;
 
-import com.desiree.advance.enums.FileType;
+import com.desiree.advance.aspect.enums.FileType;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
-import org.springframework.beans.factory.annotation.Value;
-
-import javax.annotation.Resource;
 
 @Data
 public class FileDto {

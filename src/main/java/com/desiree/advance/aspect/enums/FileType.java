@@ -1,4 +1,4 @@
-package com.desiree.advance.enums;
+package com.desiree.advance.aspect.enums;
 
 import io.swagger.annotations.ApiModelProperty;
 

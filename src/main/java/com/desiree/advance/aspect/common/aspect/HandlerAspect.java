@@ -1,4 +1,4 @@
-package com.desiree.advance.common.aspect;
+package com.desiree.advance.aspect.common.aspect;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @Component
 class HandlerAspect {
 
-    @Pointcut(value = "@annotation(com.desiree.advance.common.annotation.ConcatImagePath)")
+    @Pointcut(value = "@annotation(com.desiree.advance.aspect.common.annotation.ConcatImagePath)")
     private void pointCut1() {
     }
 

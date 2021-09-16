@@ -1,6 +1,6 @@
-package com.desiree.advance.service;
+package com.desiree.advance.aspect.service;
 
-import com.desiree.advance.dto.FileDto;
+import com.desiree.advance.aspect.dto.FileDto;
 import org.springframework.stereotype.Service;
 
 @Service
